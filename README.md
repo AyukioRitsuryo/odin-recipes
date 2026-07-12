@@ -20,8 +20,9 @@ Implemented concepts:
 
 Skill development
 -----------------------
-The project provides an opportunity for the regular use of Git tools and the GitHub platform in daily work.
 
+The project provides an opportunity for the regular use of Git tools and the GitHub platform in daily work.
+-----------------------
 
 POLSKI
 
